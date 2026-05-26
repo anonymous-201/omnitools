@@ -540,7 +540,7 @@ function renderTool(id) {
         <div style="font-size:3rem;margin-bottom:16px">🚧</div>
         <h3 style="font-weight:700;margin-bottom:8px">Coming Soon</h3>
         <p style="color:var(--text2);font-size:0.9rem">This tool requires backend processing.<br>Star the repo on GitHub to get notified when it launches!</p>
-        <a href="https://github.com/your-repo/omnitools" target="_blank" class="btn btn-primary" style="display:inline-flex;margin-top:20px;width:auto">⭐ Star on GitHub</a>
+        <a href="https://github.com/anonymous-201/omnitools" target="_blank" class="btn btn-primary" style="display:inline-flex;margin-top:20px;width:auto">⭐ Star on GitHub</a>
       </div>`;
   }
 
